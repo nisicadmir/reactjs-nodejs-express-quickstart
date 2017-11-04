@@ -1,6 +1,6 @@
 # ReactJS, NodeJS and Express quickstart
 
-This is a quickstart for ReactJS, NodeJS and Express using one node_modules file. After downloading, you are ready to start developing your web application. 
+This is a quickstart app for ReactJS, NodeJS and Express using one node_modules folder. After downloading, you are ready to start developing your web application. 
 
  * IMPORTANT - This application does not include hot reloading.
 
@@ -22,6 +22,7 @@ package.json includes following packages:
     "webpack-dev-middleware": "^1.12.0"
   }
 ```
+webpack.config.js is the main configuration file. Check: https://github.com/webpack/webpack-dev-middleware for more configuration.
 
 ## Installation
 Clone the project:
